@@ -14,7 +14,15 @@ let massPopChart = new Chart(myChart, {
         694327,
         664892,
       ],
+      backgroundColor: [
+        '#45CCFF',
+        '#83F54B',
+        '#FFD432',
+        '#E84B30',
+        '#B243FF',
+        '#A54D3A',
+      ]
     }]
   },
   options: {}
-});
+})
